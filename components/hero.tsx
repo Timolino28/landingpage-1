@@ -24,7 +24,7 @@ export function Hero() {
                             <p className="text-lime-300">Ergebnisse statt "BlaBla"</p>
                         </div>
                         <h1 className="text-4xl leading-18 md:text-7xl font-extrabold text-white py-5">
-                            Verkaufe <span className="text-lime-500 italic">Wert</span>, <br /> nicht Resultate.
+                            Verkaufe <span className="text-lime-500 italic">Wert</span> für Deine Kunden, <br /> nicht Dienstleistung.
                         </h1>
                         <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
                             Wir helfen Dir, den Preiskampf zu verlassen. Durch ein Angebot, das auf Mehrwert für Deine Kunden setzt und Dich somit klar von Deiner Konkurrenz absetzt.
